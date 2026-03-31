@@ -63,11 +63,6 @@ Created interactive visuals:
 ✔ Real-time data exploration
 ✔ Easy-to-understand visuals
 
-🖼️ Dashboard Preview
-
-(Add your screenshot here)
-
-![Dashboard Preview](dashboard.png)
 🚀 How to Use
 Download the .pbix file
 Open using Power BI Desktop
