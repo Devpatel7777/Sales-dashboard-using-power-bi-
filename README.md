@@ -56,6 +56,11 @@ Top-performing regions identified
 Seasonal sales trends observed
 High discount areas affecting profit
 Category-wise performance analysis
+
+Dashboard Preview
+<img width="1348" height="706" alt="Screenshot 2026-03-31 183458" src="https://github.com/user-attachments/assets/94d1c541-f2f1-4b50-824d-42b0cbf53e45" />
+
+
 Dashboard Features
 
 ✔ Clean & modern UI
