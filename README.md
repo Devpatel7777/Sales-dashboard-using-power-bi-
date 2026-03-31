@@ -75,4 +75,3 @@ Advanced drill-through reports
 Author
 
 Dev Patel
-💼 IT Engineer | 📊 Data Analyst
