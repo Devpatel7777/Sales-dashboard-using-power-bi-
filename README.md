@@ -59,7 +59,6 @@ Category-wise performance analysis
 
 Dashboard Preview
 <img width="1348" height="706" alt="Screenshot 2026-03-31 183458" src="https://github.com/user-attachments/assets/94d1c541-f2f1-4b50-824d-42b0cbf53e45" />
-<img width="1140" height="635" alt="Screenshot 2026-04-20 121903" src="https://github.com/user-attachments/assets/a1f8fe68-a4b5-4426-944c-cda57176480b" />
 
 
 Dashboard Features
